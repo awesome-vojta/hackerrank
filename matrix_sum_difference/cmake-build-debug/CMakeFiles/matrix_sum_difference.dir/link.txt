@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/matrix_sum_difference.dir/main.cpp.o  -o matrix_sum_difference 

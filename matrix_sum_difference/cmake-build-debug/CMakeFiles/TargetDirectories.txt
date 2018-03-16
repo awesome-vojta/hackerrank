@@ -1,0 +1,3 @@
+/home/vojta/Documents/development/cpp/hackerrank/easy/matrix_sum_difference/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vojta/Documents/development/cpp/hackerrank/easy/matrix_sum_difference/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vojta/Documents/development/cpp/hackerrank/easy/matrix_sum_difference/cmake-build-debug/CMakeFiles/matrix_sum_difference.dir

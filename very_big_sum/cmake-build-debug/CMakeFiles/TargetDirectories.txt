@@ -1,0 +1,3 @@
+/home/vojta/Documents/development/cpp/hackerrank/easy/very_big_sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vojta/Documents/development/cpp/hackerrank/easy/very_big_sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vojta/Documents/development/cpp/hackerrank/easy/very_big_sum/cmake-build-debug/CMakeFiles/very_big_sum.dir

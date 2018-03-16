@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/very_big_sum.dir/main.cpp.o  -o very_big_sum 
